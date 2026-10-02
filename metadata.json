@@ -1,0 +1,6 @@
+{
+  "name": "FG Ludu MAX",
+  "description": "The premier competitive Ludo board game featuring phone number accounts, smart AI bots, Pass & Play, vibrant custom boards, real-time stats, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
